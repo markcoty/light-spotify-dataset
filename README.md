@@ -107,7 +107,9 @@ Plot Energy Over Loudness, Shading for Explicitness:
 
 Here we have a clear positive correlation (r = 0.75, see above) and, interestingly, the explicit songs tend to be on the upper-right part of the scatterplot, indicating that they tend to be louder and more energetic. This will also be examined below.
 
-![tempdance](https://musicproject1.carrd.co/assets/images/image09.jpg?v=603f91ef)
+Plot Danceability Over Tempo:
+
+![tempdance](https://musicproject1.carrd.co/assets/images/image09.jpg?v=7b92d4f4)
 
 While the linear correlation between these variables was low, we see a clear parabolic trend. Note that the vertex of the parabolic trend curve occurs at approximately Tempo = x = -1.122/(2*-0.0047) = 19.36. This is very close to the well-known 120 BPM tempo of songs in the disco genre, for example.
 

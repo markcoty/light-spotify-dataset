@@ -16,24 +16,24 @@ Finally, I thought the "Spotifiers" themselves might be as interested in the ans
 
 The raw data, in CSV format, contains 236,988 rows and 18 columns. The names and data types of the columns are:
 
-Artist               object
-Song                 object
-Emotion              object
-Variance            float64
-Genre                object
-Date                  int64
-Key                  object
-Tempo                 int64
-Loudness            float64
-Explicit             object
-Popularity            int64
-Energy                int64
-Danceability          int64
-Positiveness          int64
-Speechiness           int64
-Liveness              int64
-Acousticness          int64
-Instrumentalness      int64
+- Artist: object
+- Song: object
+- Emotion: object
+- Variance: float64
+- Genre: object
+- Date: int64
+- Key: object
+- Tempo: int64
+- Loudness: float64
+- Explicit: object
+ -Popularity: int64
+- Energy: int64
+- Danceability: int64
+- Positiveness: int64
+- Speechiness: int64
+- Liveness: int64
+- Acousticness: int64
+- Instrumentalness: int64
 
 There were no missing or null values aside from 8 in the Song column. Since this column contains 159,730 unique values, these were ignored.
 

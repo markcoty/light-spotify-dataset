@@ -37,7 +37,7 @@ Instrumentalness      int64
 
 There were no missing or null values aside from 8 in the Song column. Since this column contains 159,730 unique values, these were ignored.
 
-The categorical data was displayed in these ![bar graphs](https://musicproject1.carrd.co/assets/images/image01.jpg?v=603f91ef)
+The categorical data was displayed in these bar graphs: ![bar graphs](https://musicproject1.carrd.co/assets/images/image01.jpg?v=603f91ef)
 
 
 

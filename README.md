@@ -201,4 +201,4 @@ Given the T-statistic and the P-value, we reject the null hypothesis and conclud
 
 
 For a more polished rendering of this ReadMe, along with a few details not shown here, visit this link:
-### [Detailed ReadMe of the Project](https://musicproject1.carrd.co/ "Spotify Dataset Project")
+### [Project Website](https://musicproject1.carrd.co/ "Spotify Dataset Project")

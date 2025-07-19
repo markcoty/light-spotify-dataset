@@ -7,8 +7,7 @@
 - [Classification Models](#classification-models)
 - [Finally, we performed some hypothesis tests](#finally-we-performed-some-hypothesis-tests)
 - [Conclusions](#conclusions)
-- [Project Website](#project-website)# Spotify Data Project: Recent Trends and Relationships
-- 
+
 
 ## **Purpose**
 

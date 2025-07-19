@@ -176,7 +176,7 @@ Once again, all the models improved. Regression barely improved -- not until the
 
 What does all this mean? It means that using just a song's loudness, energy, popularity, speechiness, and tempo, we can predict with 86% accuracy whether it contains explicit lyrics.
 
-## Some hypothesis tests, to get more insight into the dataset.
+## Some hypothesis tests
 
 ### This is a hypothesis test to see if songs from before 2008 are less likely to be explicit than songs from 2008 or later. 2008 was chosen as the boundary, because it is the approximate mean of the dataset (see above).
 

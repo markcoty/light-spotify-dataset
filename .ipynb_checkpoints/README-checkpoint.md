@@ -1,4 +1,4 @@
-## Trends and Changes in Music as Reflected on Spoitify
+## Trends and Changes in Music as Reflected on Spotify
 
 ## Table of Contents
 

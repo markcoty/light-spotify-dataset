@@ -1,3 +1,5 @@
+## Trends and Changes in Music as Reflected on Spoitify
+
 ## Table of Contents
 
 - [Purpose](#purpose)

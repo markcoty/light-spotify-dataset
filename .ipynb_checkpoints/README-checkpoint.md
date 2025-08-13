@@ -21,12 +21,12 @@ I wanted a data-driven way to talk music with my daughters, who live on Spotify.
 
 **Repo Structure**
 
-├─ Notebook/
-│ └─ spotify_trends.ipynb (EDA → models → tests)
-├─ Images/ 
-├─ Data/ 
-├─ requirements.txt
-└─ README.md
+- ├─ Notebook/
+- │ └─ spotify_trends.ipynb (EDA → models → tests)
+- ├─ Images/ 
+- ├─ Data/ 
+- ├─ requirements.txt
+- └─ README.md
 
 ## Quickstart ##
 

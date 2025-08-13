@@ -22,7 +22,7 @@ I wanted a data-driven way to talk music with my daughters, who live on Spotify.
 **Repo Structure**
 
 - ├─ Notebook/
-- │ └─ spotify_trends.ipynb (EDA → models → tests)
+- │ └─ light-spotify-dataset-v2.ipynb (EDA → models → tests)
 - ├─ Images/ 
 - ├─ Data/ 
 - ├─ requirements.txt

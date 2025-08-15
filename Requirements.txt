@@ -1,1 +1,44 @@
-placeholder
+Environment [bash] python -m venv .venv && source .venv/bin/activate # (Windows: .venv\Scripts\activate) pip install -r requirements.txt
+
+Data: Download the CSV from Kaggle (see Data folder or project page) and place it at Data/spotify.csv.
+
+Run: Open and run Notebook/light-spotify-dataset-v2.ipynb top-to-bottom.
+
+Reproducibility: Fixed random seed for all splits and models.
+
+Stratified train/test split on the Explicit label.
+
+All charts are saved from the notebook into Images/ on execution.
+
+
+
+
+
+pip install -r requirements.txt
+
+pandas
+
+numpy
+
+matplotlib.pyplot
+
+seaborn
+
+scikit-learn
+
+scipy
+
+jupyter 
+
+ipykernel
+
+statsmodels
+
+plotly.express
+
+random
+
+os
+
+
+
